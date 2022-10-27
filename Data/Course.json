@@ -1,156 +1,162 @@
 [
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "Learn JavaScript",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+        "details": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2qwe8",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Learn React",
+        
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200309202057/How-To-Learn-ReactJS-A-Complete-Guide-For-Beginners.jpg",
+        "details": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2qma8",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Learn Node.js",
+       
+        "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F991297335992C8CE2F",
+        "details": "JavaScript is one of the most popular programming languages. The powerful Node.js runtime environment has been ranked the technology most commonly used by professional developers. Node.js is an event-driven JavaScript runtime. Node has myriad potential uses for JavaScript development including being a great environment for building efficient network applications."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "title": "Learn MongoDB",
+       
+        "image_url": "https://www.programmers-code.org/wp-content/uploads/2019/11/mongodb-logo-820x449px-820x425.jpg",
+        "details": "Whether you are brand new to the tech field, or a seasoned software engineer, you’ll need to know your way around a database — especially for careers in back-end or full-stack development , data science, machine learning, or database administration. MongoDB is a popular NoSQL document-oriented database management system. NoSQL, or “not only SQL”, databases are fast and flexible, scalable, and quick to get started with. They’re becoming increasingly popular in the industry, currently MongoDB is used by companies like Google, Verizon, eBay, and many more! This course was built in partnership with the experts at MongoDB to help you learn this popular database technology or take your existing database management skills to the next level."
     },
-    {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
-        "category_id": "01",
-        "rating": {
-            "number": 4.8,
-            "badge": "Excellent"
-        },
-        "total_view": 400,
-        "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-        "author": {
-            "name": "Jennifer Wood",
-            "published_date": "2022-08-30 16:38:45",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
-    },
+   
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "category_id": "02",
         "rating": {
             "number": 4.3,
             "badge": "Excellent"
         },
         "total_view": 400,
-        "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-        "author": {
-            "name": "Jennifer Wood",
-            "published_date": "2022-08-30 16:38:45",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "title": "Learn HTML",
+      
+        "image_url": "https://www.tutorialrepublic.com/lib/images/html-illustration.png",
+        "details": "Fun fact: all websites use HTML — even this one. It’s a fundamental part of every web developer's toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers."
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": false
-        },
         "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
         "total_view": 980,
-        "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-        "author": {
-            "name": "system",
-            "published_date": "2022-08-24 23:15:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
-    },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": false
-        },
-        "category_id": "01",
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "total_view": 980,
-        "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-        "author": {
-            "name": "system",
-            "published_date": "2022-08-24 23:15:00",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "title": "Learn Node-SQLite",
+       
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png",
+        "details": "This course lays the groundwork for developing fully integrated web applications, connecting your servers to your databases. With communication between a back-end database and user-facing software, you will be well on your way to writing well-designed software for immediate publication on the internet."
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "category_id": "02",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
         "total_view": null,
-        "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
-        "author": {
-            "name": null,
-            "published_date": "2022-08-30 15:00:04",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "title": "Learn CSS",
+       
+        "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+        "details": "You’ll find learning CSS essential in styling websites. Web developers use it to build on basic HTML and add personality to plain text pages. This course helps you expand your coding foundation and gives you CSS interactive practice to start adding colors and background images or editing layouts so you can create your very own, unique stylized web pages."
+    },
+    {
+        "_id": "2e78e5e0310c2e9a4dbb6ef6bs3df3e745",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
         },
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+        "total_view": null,
+        "title": "Learn Java",
+       
+        "image_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/ST-java1_1x%20%283%29_3.png?itok=y36CMCts",
+        "details": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects."
+    },
+    {
+        "_id": "2e78e5e0310c2e9a4dbb67o6ds3df3e745",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": null,
+        "title": "Learn C: Introduction",
+       
+        "image_url": "https://tech4nep.com/wp-content/uploads/2021/12/C-Programming-Language-800x445.jpg",
+        "details": "Ready to start your journey into the C programming language? C has been around for quite some time, and it is one of the foundational languages of computer science. C is everywhere; learning it will help you become a better programmer ready for the next challenge in any field of computer science!"
+    },
+    {
+        "_id": "2e78e5e0310c2e9a4dbb6e3se3e745",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": null,
+        "title": "Java: Algorithms",
+       
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/10/sorting-in-java.png",
+        "details": "This course is all about algorithms! We’ll start by looking into the concept of recursion — what does it mean for a method to call itself? Once we wrap our minds around this tricky concept, we’ll look at how to use recursion to solve some problems.Next, we’ll start to think about how we can evaluate the effectiveness of our algorithms. There are so many ways to solve a single problem — how do you know if your solution is a good one? What does it even mean for one solution to be “better” than the other.Finally, we’ll look at some of the most common sorting and searching algorithms. If you’re looking to sort a list of numbers, how would you do that? What about if you were trying to find a single word in the dictionary? We’ll write a few algorithms to solve these problems."
+    },
+    {
+        "_id": "2e78e5e0310c2e9a4a5q3ef6bs3df3e745",
+        "category_id": "07",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": null,
+        "title": "Learn PHP",
+        "image_url": "https://postingtag.com/wp-content/uploads/2022/06/Core-PHP-Tutorial-.png",
+        "details": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP."
+    }
+    ,
+    {
+        "_id": "2e78e5e0310c2ea5u85q3ef6bs3df3e745",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": null,
+        "title": "C++ for Programmers",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-C.jpg",
+        "details": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP."
     }
 ]
